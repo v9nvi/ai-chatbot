@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chatbot Project
 
 This is a simple AI chatbot built using Python.
@@ -8,3 +9,6 @@ I built this project to develop my programming and artificial intelligence skill
 
 ## How to run
 Run: python main.py
+=======
+# ai-chatbot
+>>>>>>> 1b6898fd476ed6abee57921f13e3c4b8b4e3c4fa
